@@ -5,9 +5,11 @@
   "publisher": "tepkaii",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/your-repo.git"
+    "url": "https://github.com/tepkaii/Quick-Markers"
   },
-  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "version": "1.0.1",
+  "icon": "quick-markers-logo.png",
   "engines": {
     "vscode": "^1.102.0"
   },
